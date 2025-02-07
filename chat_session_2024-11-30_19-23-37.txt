@@ -1,0 +1,139 @@
+Chatbot: Halo! ada yang bisa saya bantu?
+User: tanya jam
+Chatbot: Waktu saat ini adalah 19:19:43.
+User: beri aku soal matematika
+Chatbot: Berapa 39 - 15?
+User: 14
+Salah, jawaban yang benar adalah 24
+User: beri aku soal matematika
+Chatbot: Berapa 100 - 79?
+User: 21
+Benar! Jawabanmu tepat. 😊
+User: beri aku soal matematika
+Chatbot: Berapa 17 * 16?
+User: beri aku soal matematika
+Chatbot: Berapa 3 * 78?
+User: beri aku soal matematika
+Chatbot: Berapa 98 - 78?
+User: beri aku soal matematika
+Chatbot: Berapa 32 * 44?
+User: beri aku soal matematika
+Chatbot: Berapa 9 + 44?
+User: beri aku soal matematika
+Chatbot: Berapa 18 * 51?
+User: beri aku soal matematika
+Chatbot: Berapa 22 + 71?
+User: beri aku soal matematika
+Chatbot: Berapa 93 * 83?
+User: beri aku soal matematika
+Chatbot: Berapa 98 - 82?
+User: beri aku soal matematika
+Chatbot: Berapa 79 * 68?
+User: beri aku soal matematika
+Chatbot: Berapa 86 - 11?
+User: beri aku soal matematika
+Chatbot: Berapa 44 * 21?
+User: beri aku soal matematika
+Chatbot: Berapa 47 * 81?
+User: beri aku soal matematika
+Chatbot: Berapa 35 - 21?
+User: beri aku soal matematika
+Chatbot: Berapa 98 + 44?
+User: beri aku soal matematika
+Chatbot: Berapa 92 + 72?
+User: beri aku soal matematika
+Chatbot: Berapa 71 - 40?
+User: beri aku soal matematika
+Chatbot: Berapa 27 - 29?
+User: beri aku soal matematika
+Chatbot: Berapa 50 + 37?
+User: beri aku soal matematika
+Chatbot: Berapa 14 * 92?
+User: beri aku soal matematika
+Chatbot: Berapa 5 * 46?
+User: beri aku soal matematika
+Chatbot: Berapa 87 * 21?
+User: beri aku soal matematika
+Chatbot: Berapa 48 * 61?
+User: beri aku soal matematika
+Chatbot: Berapa 29 * 66?
+User: beri aku soal matematika
+Chatbot: Berapa 35 * 88?
+User: beri aku soal matematika
+Chatbot: Berapa 28 * 79?
+User: beri aku soal matematika
+Chatbot: Berapa 20 * 8?
+User: beri aku soal matematika
+Chatbot: Berapa 70 + 70?
+User: beri aku soal matematika
+Chatbot: Berapa 70 - 93?
+User: beri aku soal matematika
+Chatbot: Berapa 52 * 53?
+User: beri aku soal matematika
+Chatbot: Berapa 6 + 40?
+User: beri aku soal matematika
+Chatbot: Berapa 60 - 32?
+User: beri aku soal matematika
+Chatbot: Berapa 60 + 43?
+User: beri aku soal matematika
+Chatbot: Berapa 99 - 36?
+User: beri aku soal matematika
+Chatbot: Berapa 19 * 17?
+User: beri aku soal matematika
+Chatbot: Berapa 10 * 9?
+User: beri aku soal matematika
+Chatbot: Berapa 93 - 70?
+User: beri aku soal matematika
+Chatbot: Berapa 80 * 96?
+User: beri aku soal matematika
+Chatbot: Berapa 79 * 64?
+User: beri aku soal matematika
+Chatbot: Berapa 97 + 43?
+User: beri aku soal matematika
+Chatbot: Berapa 54 - 42?
+User: beri aku soal matematika
+Chatbot: Berapa 12 * 81?
+User: beri aku soal matematika
+Chatbot: Berapa 82 * 26?
+User: beri aku soal matematika
+Chatbot: Berapa 91 + 44?
+User: beri aku soal matematika
+Chatbot: Berapa 33 - 33?
+User: 0
+Benar! Jawabanmu tepat. 😊
+User: beri aku soal matematika
+Chatbot: Berapa 14 + 58?
+User: beri aku soal matematika
+Chatbot: Berapa 99 * 17?
+User: beri aku soal matematika
+Chatbot: Berapa 87 * 89?
+User: beri aku soal matematika
+Chatbot: Berapa 21 * 6?
+User: beri aku soal matematika
+Chatbot: Berapa 18 * 10?
+User: beri aku soal matematika
+Chatbot: Berapa 67 + 15?
+User: beri aku soal matematika
+Chatbot: Berapa 10 + 4?
+User: beri aku soal matematika
+Chatbot: Berapa 55 - 41?
+User: beri aku soal matematika
+Chatbot: Berapa 24 * 68?
+User: beri aku soal matematika
+Chatbot: Berapa 52 + 55?
+User: beri aku soal matematika
+Chatbot: Berapa 45 * 84?
+User: beri aku soal matematika
+Chatbot: Berapa 64 + 10?
+User: beri aku soal matematika
+Chatbot: Berapa 89 * 30?
+User: beri aku soal matematika
+Chatbot: Berapa 70 + 19?
+User: beri aku soal matematika
+Chatbot: Berapa 19 - 84?
+User: -65
+Benar! Jawabanmu tepat. 😊
+User: beri aku soal matematika
+Chatbot: Berapa 39 + 76?
+User: 22
+Salah, jawaban yang benar adalah 115

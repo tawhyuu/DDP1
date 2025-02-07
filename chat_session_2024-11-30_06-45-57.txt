@@ -1,0 +1,5 @@
+Chatbot: Halo! ada yang bisa saya bantu?
+User: beri aku soal matematika
+Chatbot: Berapa 8 * 92?
+User: 736
+Benar! Jawabanmu tepat. 😊

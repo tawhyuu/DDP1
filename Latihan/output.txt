@@ -1,0 +1,11 @@
+001. Hidup bukanlah angka 12345
+002. Angka tak mampu ukur, warna perasaan
+003. 
+004. Harapan, mimpi, cita-cita yang tinggi
+005. Menjadi semangat, untuk terus melangkah
+006. 
+007. Cinta, kasih sayang, yang tak ternilai
+008. Hidup adalah petualangan, tanpa batas
+
+Total banyaknya huruf = 175 huruf
+Banyaknya baris tidak kosong = 6 baris

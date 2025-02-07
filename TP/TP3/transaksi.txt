@@ -1,0 +1,7 @@
+Anto;19
+Jono;12
+Andi;11
+Kono;1
+Andi;2
+Anto;2
+Jono;9
